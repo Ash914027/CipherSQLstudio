@@ -3,6 +3,8 @@
 A **browser-based SQL learning platform** where students can practice SQL queries against **pre-configured assignments** with **real-time execution** and **AI-powered intelligent hints** 🤖.
 
 ---
+<img width="1892" height="803" alt="Screenshot 2025-12-30 001621" src="https://github.com/user-attachments/assets/8d569540-27c2-4489-aa44-9eedd70d037f" />
+
 
 ## 📋 Table of Contents
 - ✨ Features
