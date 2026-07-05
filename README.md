@@ -1,4 +1,4 @@
-# 🧠 CipherSQLStudio – SQL Learning Platform 🚀
+# 🧠 CipherSQLStudio – SQL Learning Platform 🚀.
 
 A **browser-based SQL learning platform** where students can practice SQL queries against **pre-configured assignments** with **real-time execution** and **AI-powered intelligent hints🤖
 
